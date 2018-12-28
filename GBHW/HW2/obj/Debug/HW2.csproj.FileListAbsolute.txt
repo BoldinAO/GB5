@@ -1,0 +1,7 @@
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\bin\Debug\HW2.exe.config
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\bin\Debug\HW2.exe
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\bin\Debug\HW2.pdb
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.exe
+C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.pdb
