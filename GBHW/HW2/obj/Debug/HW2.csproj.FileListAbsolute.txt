@@ -5,3 +5,10 @@ C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.csprojAssemblyReferenc
 C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
 C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.exe
 C:\Users\boldinao\Desktop\gbhw\GB5\GBHW\HW2\obj\Debug\HW2.pdb
+C:\Users\Energy\Desktop\p\GBHW\HW2\bin\Debug\HW2.exe.config
+C:\Users\Energy\Desktop\p\GBHW\HW2\bin\Debug\HW2.exe
+C:\Users\Energy\Desktop\p\GBHW\HW2\bin\Debug\HW2.pdb
+C:\Users\Energy\Desktop\p\GBHW\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\Energy\Desktop\p\GBHW\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Energy\Desktop\p\GBHW\HW2\obj\Debug\HW2.exe
+C:\Users\Energy\Desktop\p\GBHW\HW2\obj\Debug\HW2.pdb
